@@ -7,7 +7,7 @@ Test bams for the bridge builder. The reads are aligned to different genome asse
 
 2). [GRCh37] [2]: A major release from [Genome Reference Consortium][5] [February 2009] affected chromosome coordinates compared to NCBI36.
 
-3). [GRCh37.p10][3]: additional patches added to GRCh37 that help users to get an improved representation without affecting the coordinate.
+3). [GRCh37.p][3]: two additional patches (HG1007 and HG1032) added to GRCh37 that help users to get an improved representation without affecting the coordinate .
 
 4). [Human Decoy Sequence][4]: Integrated reference sequence from the GRCh37 primary
    assembly, Human herpesvirus and the concatenated decoy sequences.
